@@ -38,3 +38,6 @@ Responsive Design: The app is styled to work seamlessly on different screen size
 Ease of Use: A simple interface with minimal functionality for easy communication.
 
 ## OUTPUT ##
+
+![Image](https://github.com/user-attachments/assets/aead1811-1927-429a-bc00-50876f03b872)
+![Image](https://github.com/user-attachments/assets/2f5cddbc-9933-4659-9098-d823b3055e3f)
